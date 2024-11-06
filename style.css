@@ -1,0 +1,22 @@
+ h1{
+  
+text-align: center;
+color: blue;
+background-color: lightblue; 
+text-transform: uppercase;
+line-height: 50px;
+ }
+ h2{
+    background-color: lightgreen;
+    text-align: right;
+    text-transform: lowercase;
+    line-height: 40px;    
+ }
+ul{
+    text-decoration: line-through;
+}
+
+body{
+    background-color:darkgrey;
+    font-family: ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
